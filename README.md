@@ -6,3 +6,4 @@ where CRUDD means C-create
                  U-update
                  D-display
                  D-delete
+Along with these projects you can also find the servlet notes in 
